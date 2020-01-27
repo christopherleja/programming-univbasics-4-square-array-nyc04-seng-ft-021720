@@ -6,6 +6,6 @@ def square_array(array)
       squared_numbers << array[i] ** 2
       i += 1 
   end
-  return squared_numbers
+  squared_numbers
 end   
 
